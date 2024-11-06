@@ -1,1 +1,3 @@
 # Calendar-App
+
+This Calendar App is a minimalist, interactive calendar built with HTML, CSS, and JavaScript. It displays the current month, day, and year, along with the day's name, making it easy to view today’s date at a glance. The project showcases core JavaScript skills, using Date manipulation for precise date formatting and DOM manipulation to dynamically update elements. The interface has a responsive design with a focus on simplicity, ideal for learning and practicing JavaScript fundamentals, styling with CSS, and working with the browser's document object model. This project is great for beginners looking to explore JavaScript and DOM manipulation.
